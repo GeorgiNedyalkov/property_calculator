@@ -4,3 +4,17 @@
   padding: 2rem;
   text-align: center;
 }
+
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3rem;
+}
+
+.display {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
